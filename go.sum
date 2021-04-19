@@ -1,2 +1,10 @@
-github.com/nordicdyno/go-deps-A1 v0.0.1 h1:YUQdUwcXK6ygqaHCnyfEedg4wDc3mm3PAIAEOTyxxDM=
-github.com/nordicdyno/go-deps-A1 v0.0.1/go.mod h1:T7si9qOvQcaqmHvytxjtrdLjcy2NcHjUxdftGgk413c=
+github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
+github.com/jinzhu/now v1.1.1/go.mod h1:d3SSVoowX0Lcu0IBviAWJpolVfI5UJVZZ7cO71lE/z8=
+github.com/jinzhu/now v1.1.2/go.mod h1:d3SSVoowX0Lcu0IBviAWJpolVfI5UJVZZ7cO71lE/z8=
+github.com/mattn/go-sqlite3 v1.14.5/go.mod h1:WVKg1VTActs4Qso6iwGbiFih2UIHo0ENGwNd0Lj+XmI=
+github.com/mattn/go-sqlite3 v1.14.7/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
+github.com/nordicdyno/go-deps-A1 v0.1.0 h1:Jb4+2y2vdNa3fpHjqsBmOzrjZF06kBv5dkVVGWbvWdw=
+github.com/nordicdyno/go-deps-A1 v0.1.0/go.mod h1:RetlB355Rm3lqmNh/4zQ/+NStO/GOYdVTUtQAoc/OzU=
+gorm.io/driver/sqlite v1.1.4/go.mod h1:mJCeTFr7+crvS+TRnWc5Z3UvwxUN1BGBLMrf5LA9DYw=
+gorm.io/gorm v1.20.7/go.mod h1:0HFTzE/SqkGTzK6TlDPPQbAYCluiVvhzoA1+aVyzenw=
+gorm.io/gorm v1.21.8/go.mod h1:F+OptMscr0P2F2qU97WT1WimdH9GaQPoDW7AYd5i2Y0=
